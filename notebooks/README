@@ -1,1 +1,6 @@
+These notebooks are created and tested with following infrastructure.
 
+1. Jupyter Notebook 5.1.0 (http://jupyter.org)
+2. Python 3.6.3 (https://www.python.org)
+3. numpy 1.13.3 (http://www.numpy.org)
+4. Tensorflow 1.4.0 (http://tensorflow.org)
