@@ -1,6 +1,6 @@
-# M I D A - Machine Intelligence in Design Automation
+# M I D A : Machine Intelligence in Design Automation
 
-## Book Examples: [Available on amazon](http://amzn.to/2paZ53b)
+## Selected examples from book: [Available on amazon](http://amzn.to/2paZ53b)
 1. [Chapter 5.1: Estimating Resistance](https://github.com/srohit0/mida/blob/master/notebooks/Linear%20Regression%20with%20One%20Variable.ipynb)
 2. [Chapter 5.2: Estimating Capacitance](https://github.com/srohit0/mida/blob/master/notebooks/Capacitance%20%20Estimation.ipynb)
 3. [Chapter 6.1: Classifying Combinational and Sequential Cells](https://github.com/srohit0/mida/blob/master/notebooks/Binary%20Classification%20Of%20Cells%20Using%20Logistic%20Regression.ipynb)
