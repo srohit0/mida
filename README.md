@@ -1,4 +1,4 @@
-# M I D A [Machine Intelligence in Design Automation]
+# M I D A - Machine Intelligence in Design Automation
 
 ## Book Examples: [Available on amazon](http://amzn.to/2paZ53b)
 1. [Chapter 5.1: Estimating Resistance](https://github.com/srohit0/mida/blob/master/notebooks/Linear%20Regression%20with%20One%20Variable.ipynb)
