@@ -1,6 +1,4 @@
-# M I D A : Machine Intelligence in Design Automation
-
-## Selected examples from book: [Available on amazon](http://amzn.to/2paZ53b)
+## Index for selected examples from book: [available on amazon](http://amzn.to/2paZ53b)
 * [Chapter 5.1: Estimating Resistance](https://github.com/srohit0/mida/blob/master/notebooks/Linear%20Regression%20with%20One%20Variable.ipynb)
 * [Chapter 5.2: Estimating WLM or Capacitances](https://github.com/srohit0/mida/blob/master/notebooks/Capacitance%20%20Estimation.ipynb)
 * [Chapter 6.1: Classifying Combinational and Sequential Circuits](https://github.com/srohit0/mida/blob/master/notebooks/Binary%20Classification%20Of%20Cells%20Using%20Logistic%20Regression.ipynb)
