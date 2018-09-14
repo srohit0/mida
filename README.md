@@ -7,4 +7,4 @@
 * [Chapter 9.4: Neural Network Identification of 10 Different Types of Circuits](https://github.com/srohit0/mida/blob/master/notebooks/10%20class%20Classification%20Of%20Cells%20Using%20Neural%20Network.ipynb)
 
 
-![Machine Intelligence in Design Automation](https://qph.ec.quoracdn.net/main-qimg-be4b2dd87b0ef610f4fda06b89904bd5)
+![Machine Intelligence in Design Automation](https://qph.fs.quoracdn.net/main-qimg-be4b2dd87b0ef610f4fda06b89904bd5)
